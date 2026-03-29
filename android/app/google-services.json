@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "880715701828",
+    "project_id": "eclassiut",
+    "storage_bucket": "eclassiut.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880715701828:android:1768de4fd53a984879e611",
+        "android_client_info": {
+          "package_name": "com.tobaskAplus.eclassiut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880715701828-pan846auouadv1r3afajkq3pcfnrprub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo1rMmWroMD24i9lTk_9nbLLkwdJuwVwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880715701828-pan846auouadv1r3afajkq3pcfnrprub.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "880715701828-pqm8ggb4lh08qmkhivlrc14codhce7tg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tobaskAplus.eclassiut"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
